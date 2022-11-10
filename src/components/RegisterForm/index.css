@@ -1,0 +1,40 @@
+.register-container{
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items:center;
+    margin-bottom: 20px;
+
+}
+.main-container{
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items:center;
+
+}
+.input-container{
+    display: flex;
+    flex-direction: column;
+    justify-content:flex-start;
+    align-items:flex-start;
+    margin:10px;
+}
+.input-label{
+    font-size:20px;
+    font-family: "roboto";
+}
+.input-val{
+    height:30px;
+    width: 280px;
+    border-radius: 5px;
+}
+.title{
+    font-size: 30px;
+    font-family: "roboto";
+}
+.btn{
+    padding: 10px;
+    border-radius: 10px;
+    background-color: transparent;
+}
